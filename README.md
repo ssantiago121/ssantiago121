@@ -1,4 +1,4 @@
-## 👋 Olá, meu nome é Fábio Santiago! 💻
+## 👋 Olá, me chamo Fábio Santiago! 💻
 
 
 Sou um desenvolvedor apaixonado por tecnologia. 
